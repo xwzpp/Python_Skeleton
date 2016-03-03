@@ -16,7 +16,7 @@ config={
 	'version': '0.1',
 	'install_requires': ['nose'],
 	'packages': ['NAME'],
-	'scripts': [],
+	'scripts': ['bin/run.py'],
 	'name': 'Python_Skeleton'
 }
 
