@@ -8,7 +8,7 @@ except ImportError:
 	
 
 config={
-	'description': 'Python_Skeleton',
+	'description': 'PisXw_WebApp',
 	'author': 'XuWei',
 	'url': 'Url to get it',
 	'download_url': 'Where to download it',
@@ -17,7 +17,7 @@ config={
 	'install_requires': ['nose'],
 	'packages': ['NAME'],
 	'scripts': ['bin/run.py'],
-	'name': 'Python_Skeleton'
+	'name': 'PisXw_WebApp'
 }
 
 setup(**config)
