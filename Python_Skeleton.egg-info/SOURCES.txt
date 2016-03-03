@@ -1,9 +1,0 @@
-setup.py
-NAME/Hello.py
-NAME/__init__.py
-Python_Skeleton.egg-info/PKG-INFO
-Python_Skeleton.egg-info/SOURCES.txt
-Python_Skeleton.egg-info/dependency_links.txt
-Python_Skeleton.egg-info/requires.txt
-Python_Skeleton.egg-info/top_level.txt
-bin/run.py
